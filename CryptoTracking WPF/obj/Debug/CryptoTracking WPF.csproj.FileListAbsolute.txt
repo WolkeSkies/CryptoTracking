@@ -1,0 +1,22 @@
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\bin\Debug\CryptoTracking WPF.exe.config
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\bin\Debug\CryptoTracking WPF.exe
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\bin\Debug\CryptoTracking WPF.pdb
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\bin\Debug\Dapper.dll
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\bin\Debug\Dapper.xml
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\obj\Debug\CryptoTracking WPF.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\obj\Debug\CryptoTracking WPF_MarkupCompile.cache
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\obj\Debug\CryptoTracking WPF_MarkupCompile.lref
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\obj\Debug\CryptoTracking WPF.g.resources
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\obj\Debug\CryptoTracking_WPF.Properties.Resources.resources
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\obj\Debug\CryptoTracking WPF.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\obj\Debug\CryptoTracking WPF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\obj\Debug\CryptoTracking WPF.exe
+C:\Users\Administrator\source\repos\CryptoTracking WPF\CryptoTracking WPF\obj\Debug\CryptoTracking WPF.pdb
